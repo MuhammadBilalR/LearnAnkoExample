@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Example-anko</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create account</string>
+    <string name="message_invalid_login">Invalid username or password!</string>
+    <string name="title_login_failed">Login Failed</string>
+    <string name="message_login_failed">Username or password invalid!</string>
+    <string name="full_name">Full Name</string>
+    <string name="register">Register</string>
+</resources>
